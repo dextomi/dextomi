@@ -1,5 +1,4 @@
 # Hey there!
 
 ## About me
-- Software Engineer | Backend Developer
-- Stack: Java | Spring Boot
+Just a fellow QA, that's currently interested in development! Currently learning Go!
